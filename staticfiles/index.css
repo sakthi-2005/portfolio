@@ -184,6 +184,7 @@ body{
     max-height: 1px;
     max-width: 30px;
     background-color: grey;
+    transition: max-height 0.5s ease-out;
 }
 .action-2{
     margin: 50px 5px 0px 5px;
@@ -192,6 +193,7 @@ body{
     max-height: 1px;
     max-width: 30px;
     background-color: royalblue;
+    transition: max-height 0.5s ease-out;
 }
 .action-1{
     margin: 50px 5px 0px 5px;
@@ -200,6 +202,7 @@ body{
     max-height: 1px;
     max-width: 30px;
     background-color: red;
+    transition: max-height 0.5s ease-out;
 }
 
 @media screen and (max-width:768px){
